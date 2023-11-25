@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "beaver-react"
+		},
+		{
+			"path": "../../../../../Applications/XAMPP/xamppfiles/htdocs/beaver-backend-laravel"
+		},
+		{
+			"path": "beaver-chat-server"
+		}
+	],
+	"settings": {}
+}
